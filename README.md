@@ -1,4 +1,4 @@
-# Collapse OS
+# DSN from Collapse OS
 
 *Bootstrap post-collapse technology*
 
